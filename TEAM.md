@@ -1,52 +1,15 @@
-# Team
+# Thông tin và phân công nhóm
 
-## Thông tin nhóm
+- Tên nhóm: SaiGonBac (theo tên thư mục; xác nhận lại trước khi nộp).
+- Lớp: L3A (theo tên thư mục; xác nhận lại trước khi nộp).
+- URL repo, nhánh nộp, commit chốt: chưa cung cấp.
 
-- Tên nhóm:
-- Lớp: L3A hoặc L3B
-- Repo nhóm: `K5-L3A-DAY13-TenNhom-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+| Thành viên | MSSV | Vai trò và phần việc |
+| --- | --- | --- |
+| Bùi Hữu Phúc | 2A202603572 | Phần 1: A–B, mô hình chi phí, kiểm tra và bảng độ nhạy; gắn nhãn độc lập 1 cho nhiệm vụ C. |
+| Thành viên 2 — chưa cung cấp tên | Chưa cung cấp | Phần 2: C–E, kế hoạch pilot, chỉ số, hồ sơ và tổng hợp báo cáo; gắn nhãn độc lập 2. |
 
-## Thành viên
+Đề gốc quy định nhóm 4 người; cách chia 2 người này theo yêu cầu hiện tại và cần đối chiếu quy định của lớp. Mỗi người tự gắn nhãn 20 ca trước khi trao đổi; sau đó so nhãn, tính đồng thuận và cùng tham gia duyệt chéo.
 
-| STT | Họ tên | MSSV | Email | GitHub | Vai trò |
-| --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
-|   2 |        |      |       |        |         |
-|   3 |        |      |       |        |         |
-|   4 |        |      |       |        |         |
+Liên hệ, GitHub, thông tin và báo cáo cá nhân của thành viên 2 cần được bổ sung; không tự khai thay đóng góp hay kết quả duyệt chéo.
 
-Bốn vai của lab:
-
-- **Người viết code:** viết và chạy `src/lab13.py`.
-- **Người kiểm số:** tính tay một con số để đối chiếu, điền bảng.
-- **Người gắn nhãn 1:** đọc đề, theo dõi điều kiện "Xong khi"; gắn nhãn 20 ca độc lập ở CP3.
-- **Người gắn nhãn 2, kiêm giữ hồ sơ:** điền `report/team/ho_so_launch_v0.md` từ đầu buổi; gắn nhãn 20 ca độc lập ở CP3.
-
-Đổi người viết code sau giờ giải lao, để ít nhất hai người trong nhóm tự tay tính được chi phí.
-
-## Cá nhân
-
-Mỗi thành viên đồng thời tạo một báo cáo riêng trong `report/` theo dạng:
-
-```text
-report/team/MSSV_HoTen.md
-```
-
-Ví dụ: `report/team/20241234_NguyenVanAn.md`.
-
-Sao chép mục dưới đây cho từng thành viên.
-
-## HoVaTen-MSSV
-
-### Phần việc phụ trách
-
--
-
-### Đóng góp cụ thể
-
--
-
-### Bằng chứng
-
--
